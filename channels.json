@@ -1,11 +1,11 @@
 {
-  "channels": [
-    {
-      "name": "BEIN SPORT UPDATE",
-      "urls": [
-        "ضع رابط البث هنا"
-      ],
-      "logo": "bein"
-    }
-  ]
+"channels": [
+{
+"name": "GITHUB TEST",
+"urls": [
+"http://re.ycn-redirect.online/live/918454578001/index.m3u8?t=Gdd_TsHyVMGa2inSP1VTLw&e=1785526553"
+],
+"logo": "bein"
+}
+]
 }
