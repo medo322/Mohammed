@@ -1,11 +1,28 @@
 {
-"channels": [
-{
-"name": "GITHUB TEST",
-"urls": [
-"http://re.ycn-redirect.online/live/918454578001/index.m3u8?t=Gdd_TsHyVMGa2inSP1VTLw&e=1785526553"
-],
-"logo": "bein"
-}
-]
+  "channels": [
+    {
+      "category": "bein",
+      "name": "GITHUB BEIN TEST",
+      "urls": [
+        "http://re.ycn-redirect.online/live/918454578001/index.m3u8?t=Gdd_TsHyVMGa2inSP1VTLw&e=1785526553"
+      ],
+      "logo": "bein"
+    },
+    {
+      "category": "alwan",
+      "name": "GITHUB ALWAN TEST",
+      "urls": [
+        "ضع رابط الوان هنا"
+      ],
+      "logo": "alwan"
+    },
+    {
+      "category": "alkass",
+      "name": "GITHUB ALKASS TEST",
+      "urls": [
+        "ضع رابط الكأس هنا"
+      ],
+      "logo": "alkass"
+    }
+  ]
 }
