@@ -1,3 +1,11 @@
 {
-  "channels": []
+  "channels": [
+    {
+      "name": "BEIN SPORT UPDATE",
+      "urls": [
+        "ضع رابط البث هنا"
+      ],
+      "logo": "bein"
+    }
+  ]
 }
