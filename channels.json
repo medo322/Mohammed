@@ -393,9 +393,16 @@
     {
       "category": "arabic_sports",
       "name": "ON SPORT MAX",
-      "urls": [
-        "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97821.ts"
-      ]
-    }
+"urls": [
+  "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97821.ts"
+]
+},
+{
+  "category": "arabic_sports",
+  "name": "ROYA SPORTS",
+  "urls": [
+    "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8"
   ]
+}
+]
 }
