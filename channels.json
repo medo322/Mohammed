@@ -553,19 +553,11 @@
     },
     {
       "category": "arabic_sports",
-      "name": "STC SPORT 2",
+            "name": "STC SPORT 2",
       "urls": [
         "http://lio100.xyz/live/15034094901029/18800196589372/421392.ts",
         "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/421392.ts"
       ]
-    },
-    {
-      "category": "arabic_sports",
-      "name": "ROYA SPORTS",
-      "urls": [
-        "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8"
-      ]
     }
   ]
 }
-
