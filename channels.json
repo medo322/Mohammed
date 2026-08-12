@@ -237,7 +237,13 @@
         "http://richtv323.xyz:2095/live/dmm8959chz/dmm0510dd00/18596.ts"
       ]
     },
-
+{
+  "category": "alkass",
+  "name": "ALKASS SPORTS 7",
+  "urls": [
+    "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/379828.ts"
+  ]
+},
     {
       "category": "arabic_sports",
       "name": "أبو ظبي الرياضية 1",
