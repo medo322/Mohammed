@@ -342,6 +342,20 @@
           ]
         },
         {
+          "name": "STARZPLAY 1",
+          "urls": [
+            "http://192.142.25.250:8080/114168367645/238189512676/51884?token=fUdbUb.yafaczb.X.bzyXcb.yHXUbUydzb.X.y.IQ.ts.0f629614866e12386eb78ba77f283592cda83997ff111231a5c207c990c0cdd5...bTIuaGFydXRvLnN0b3JlOjgwODA=",
+            "http://192.142.27.107:8080/114168367645/238189512676/51887?token=fUdbUb.fbycUUz.y.fbycfXf.yHXUbUafyd.X.y.IQ.ts.590efdd0a5a7ef4efc595757c9f4c48b81e76740b15763ae99a5d668da585b77...bTIuaGFydXRvLnN0b3JlOjgwODA="
+          ]
+        },
+        {
+          "name": "STARZPLAY 2",
+          "urls": [
+            "http://192.142.27.107:8080/114168367645/238189512676/51885?token=fUdbUb.fcUfaHa.y.fcUyXzf.yHXUbUacUy.X.y.IQ.ts.f5ead901fdfff30c1b27895e7d63ee5852b08a92ce218b41ca34598ce4d13160...bTIuaGFydXRvLnN0b3JlOjgwODA=",
+            "http://93.113.203.74:8080/114168367645/238189512676/51888?token=fUdbUb.X.y.X.yHXUbUacUd.X.y.IQ.ts.17fc4939a176dcfca88a222062111f73d7724b2f0fc4edb1117681aeba454da2...bTIuaGFydXRvLnN0b3JlOjgwODA="
+          ]
+        },
+        {
           "name": "الثمانية 1",
           "urls": [
             "http://117.55.202.211:8080/114168367645/238189512676/605394?token=fUdbUb.cbybbc.X.cbybaX.yHXUbUXdyb.X.y.IQ.ts.5da0871414015f5ae9bbec9f7055f20ce7cd5b27cb9c7be608050af578fb2b93...bTIuaGFydXRvLnN0b3JlOjgwODA=",
