@@ -6,15 +6,11 @@
         {
           "name": "BEIN SPORTS 1",
           "urls": [
+            "http://asmr4k.pro:8080/live/67389201934/0572884955/540662.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/369967.m3u8",
             "http://eag-4k.com/live/00c3f4c4ddcb/wqie7l678k/2541.m3u8",
-            "http://185.191.126.127:8080/live///345769685065/6aa0742e11d65/318197.ts",
-            "http://217.60.15.41:2095//1219624801985519/2036793881828746/325793?token=yyXdbda.UXacUbb.X.UXacffH.yHXUHdcUUH.X.y.BG.ts.8685908cd379cbe794772448ba246530425a1edcd822c38801d2ee87c39ddccd.41782.QmdsYW4=.MTg1LjE5MS4xMjYuMTI3",
-            "http://185.191.126.127:8080/live/////////////////////////////ksa92543/49566522386/325793.ts",
-            "http://217.60.15.51:2095/live//115850964932/6a99e5e8865da/325793.ts?token=yfbcyaz.aHcXz.X.ydbcU.yHXUUdcfHc.X.y.IQ.ts.8509cb7d951b1e15074567743e72c8f57364ce57d9e1629dd614e9e306c1d4d5.59588.QWwgQXRoZWVyIFRlbGVjb21tdW5pY2F0aW9uLUlyYXEgQ28uIEluY29ycG9yYXRlZA==.MTg1LjE5MS4xMjYuMTI3",
-            "http://lio100.xyz/live/15034094901029/18800196589372/325793.ts",
-            "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325793.ts",
-            "http://185.191.126.127:8080//ksa92543/49566522386/325803",
+            "http://eag-4k.com/live/00c3f4c4ddcb/wqie7l678k/2541.m3u8",
+            "http://185.191.126.127:8080//ksa92543/49566522386/325803.ts",
             "http://eag-4k.com/live/00c3f4c4ddcb/wqie7l678k/2541.m3u8",
             "http://185.191.126.127:8080/live////b0:99:d7:15:88:50/3090914536649669/325803.ts"
           ]
