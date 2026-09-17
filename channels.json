@@ -495,6 +495,7 @@
         {
           "name": "العراقية الرياضية",
           "urls": [
+            "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/37497201166810/67714241807971/143491.ts",
             "http://217.60.15.101:8080/INRBaQI2kn7yQOPR0O7G8LkXgQTwmgbEIyR2S6N9VZ5Dju8k8M6IBqADqZya",
             "http://217.60.15.101:8080/INAShrhHKOVdIDY0F5xID9mhz29zN9-RB6Lddfo1DATpIexBlfFb_MJIje2C",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/158029.m3u8",
@@ -508,6 +509,7 @@
         {
           "name": "العراقية السريانية",
           "urls": [
+            "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/37497201166810/67714241807971/143423.ts",
             "https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8"
           ]
         },
