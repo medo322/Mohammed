@@ -279,6 +279,7 @@
         {
           "name": "ALKASS SPORTS 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240758.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51842",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/96214.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/96214.ts",
@@ -288,6 +289,7 @@
         {
           "name": "ALKASS SPORTS 2",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240759.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51843",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/96215.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/96215.ts",
@@ -297,6 +299,7 @@
         {
           "name": "ALKASS SPORTS 3",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240761.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51844",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/278068.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/278068.ts",
@@ -306,6 +309,7 @@
         {
           "name": "ALKASS SPORTS 4",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240763.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51845",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/96216.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/96216.ts",
@@ -315,6 +319,8 @@
         {
           "name": "ALKASS SPORTS 5",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240765.ts",
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240764.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51846",
             "http://darhome.xyz:8080/live/Wolfgang123/bCZKSkkjPv/457024.m3u8"
           ]
@@ -322,8 +328,16 @@
         {
           "name": "ALKASS SPORTS 6",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240766.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51847",
             "http://darhome.xyz:8080/live/Wolfgang123/bCZKSkkjPv/557419.m3u8"
+          ]
+        },
+        {
+          "name": "ALKASS SPORTS 7",
+          "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240768.ts",
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240767.ts"
           ]
         }
       ]
@@ -334,6 +348,7 @@
         {
           "name": "السعودية الرياضية 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230828.ts",
             "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/99568238612202/11488579816069/143751.ts",
             "http://217.60.15.42:8080/IJ5V2xlHN7vTTLa6OUg-V_hBu-Lfut5sV8IOyF0EbhA5adFuPkmj4EcPgyU1",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97805.ts",
@@ -344,6 +359,7 @@
         {
           "name": "السعودية الرياضية 2",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230812.ts",
             "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/99568238612202/11488579816069/143753.ts",
             "http://217.60.15.18:8080/INBH9Nftwtyc0JRGptT6bstBQJSXz_C0b6Rwk3df6Ce9KLPPNxFrYwIRbwt7",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97806.ts",
@@ -378,6 +394,7 @@
         {
           "name": "STARZPLAY 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240752.ts",
             "http://192.142.25.250:8080/114168367645/238189512676/51884?token=fUdbUb.yafaczb.X.bzyXcb.yHXUbUydzb.X.y.IQ.ts.0f629614866e12386eb78ba77f283592cda83997ff111231a5c207c990c0cdd5...bTIuaGFydXRvLnN0b3JlOjgwODA=",
             "http://192.142.27.107:8080/114168367645/238189512676/51887?token=fUdbUb.fbycUUz.y.fbycfXf.yHXUbUafyd.X.y.IQ.ts.590efdd0a5a7ef4efc595757c9f4c48b81e76740b15763ae99a5d668da585b77...bTIuaGFydXRvLnN0b3JlOjgwODA="
           ]
@@ -385,6 +402,7 @@
         {
           "name": "STARZPLAY 2",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240753.ts",
             "http://192.142.27.107:8080/114168367645/238189512676/51885?token=fUdbUb.fcUfaHa.y.fcUyXzf.yHXUbUacUy.X.y.IQ.ts.f5ead901fdfff30c1b27895e7d63ee5852b08a92ce218b41ca34598ce4d13160...bTIuaGFydXRvLnN0b3JlOjgwODA=",
             "http://93.113.203.74:8080/114168367645/238189512676/51888?token=fUdbUb.X.y.X.yHXUbUacUd.X.y.IQ.ts.17fc4939a176dcfca88a222062111f73d7724b2f0fc4edb1117681aeba454da2...bTIuaGFydXRvLnN0b3JlOjgwODA="
           ]
@@ -392,6 +410,8 @@
         {
           "name": "الثمانية 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/181611.ts",
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/220961.ts",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/381478.m3u8",
             "http://217.60.15.51:2095/live//ksa92543/49566522386/429516.ts?token=bydUcd.fzzdy.X.fzyyf.yHXUHXcfaX.X.y.IQ.ts.3bf84978649cd01eaed5934a37920ca2ffc7095453a703656ee39571814c1053.59588.QWwgQXRoZWVyIFRlbGVjb21tdW5pY2F0aW9uLUlyYXEgQ28uIEluY29ycG9yYXRlZA==.MTg1LjE5MS4xMjYuMTI3",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/381479.m3u8"
@@ -400,6 +420,7 @@
         {
           "name": "الثمانية 2",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/220682.ts",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/381477.m3u8",
             "http://217.60.15.51:2095/live//ksa92543/49566522386/429517.ts?token=bydUcd.fzzdy.X.fzyyf.yHXUHXcfaX.X.y.IQ.ts.3bf84978649cd01eaed5934a37920ca2ffc7095453a703656ee39571814c1053.59588.QWwgQXRoZWVyIFRlbGVjb21tdW5pY2F0aW9uLUlyYXEgQ28uIEluY29ycG9yYXRlZA==.MTg1LjE5MS4xMjYuMTI3",
             "http://192.142.25.250:8080/114168367645/238189512676/605397?token=fUdbUb.yayUfzy.X.fHycUU.yHXUbUXdfX.X.y.IQ.ts.0f0cbcfafd7421af09a2690c8e709483cf01039b47bd825a34de43652217b611...bTIuaGFydXRvLnN0b3JlOjgwODA=",
@@ -418,6 +439,7 @@
         {
           "name": "أبو ظبي الرياضية 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230826.ts",
             "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/99568238612202/11488579816069/143757.ts",
             "http://217.60.15.125:8080/IN-g77AXBdPIFJNzDjwuvezmrYIhDnEuzJehjaV9fO5FyRYXmb0i2mACOKhP",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/92129.m3u8",
@@ -429,6 +451,7 @@
         {
           "name": "أبو ظبي الرياضية 2",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230827.ts",
             "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/99568238612202/11488579816069/143758.ts",
             "http://217.60.15.18:8080/IJGywH698LSHiLGPkcOUu4KxVuy37hzrSA-cwUkCjEcqrIhS6NvKu5SugD0v",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/326054.ts",
@@ -463,6 +486,7 @@
         {
           "name": "دبي الرياضية 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230823.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97813.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97813.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97813.ts"
@@ -479,6 +503,7 @@
         {
           "name": "الشارقة الرياضية",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230817.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/141797.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/141797.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/141797.ts"
@@ -509,6 +534,7 @@
         {
           "name": "الرابعة 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/218737.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/371931.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/371931.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/371931.ts"
@@ -517,6 +543,7 @@
         {
           "name": "الرابعة +1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/218739.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/371933.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/371933.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/371933.ts"
@@ -525,6 +552,7 @@
         {
           "name": "الرابعة 2",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/218738.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/371932.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/371932.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/371932.ts"
@@ -533,6 +561,7 @@
         {
           "name": "الرابعة +2",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/218740.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/434565.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/434565.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/434565.ts"
@@ -541,12 +570,14 @@
         {
           "name": "دهوك سبورت",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/159011.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/358226.ts"
           ]
         },
         {
           "name": "ON SPORT 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230807.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97820.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97820.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97820.ts"
@@ -555,6 +586,7 @@
         {
           "name": "ON SPORT PLUS",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230802.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97825.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97825.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97825.ts"
@@ -563,6 +595,7 @@
         {
           "name": "ON SPORT MAX",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230805.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97821.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97821.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97821.ts"
@@ -571,12 +604,14 @@
         {
           "name": "Nile sport",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230810.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97824.ts"
           ]
         },
         {
           "name": "الاهلي المصري",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230808.ts",
             "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/99568238612202/11488579816069/143739.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97823.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97823.ts"
@@ -593,6 +628,7 @@
         {
           "name": "الكويت الرياضية 1",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230819.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97826.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97826.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97826.ts"
@@ -601,6 +637,7 @@
         {
           "name": "الكويت الرياضية 2",
           "urls": [
+            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230822.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/328663.ts"
           ]
         },
