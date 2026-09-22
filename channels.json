@@ -645,6 +645,7 @@
         {
           "name": "عمان الرياضية",
           "urls": [
+            "https://partneta.cdn.mgmlcdn.com:443/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97877.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97877.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97877.ts"
