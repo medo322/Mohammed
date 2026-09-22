@@ -303,6 +303,7 @@
         {
           "name": "ALKASS SPORTS 1",
           "urls": [
+            "https://liveeu-gcps.alkassdigital.net:443/alkass1-p/20260910T021521Z/mux_video_1080p_ts/hdntl=exp=1790171366~acl=%2f*~data=hdntl~hmac=af0f7d0359205be6ef39cb78f24c07508a8cc499489f3c73276c229f6c22ceab/index-1.m3u8",
             "http://80.96.109.140/tv?url=http://qwerty8520.online:2052/live/87802732301500/80648149939307/187865.ts",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240758.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51842",
