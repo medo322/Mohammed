@@ -189,6 +189,8 @@
         {
           "name": "ALWAN SPORTS 1",
           "urls": [
+            "http://80.96.109.140/tv?url=http://qwerty8520.online:2052/live/65915200071160/12404689442647/649702.ts",
+            "http://80.96.109.140/tv?url=http://qwerty8520.online:2052/live/65915200071160/12404689442647/649708.ts",
             "http://digi.dtv3.lol:2082/live/brahim_534584/L9SMFXGx/1641618.m3u8",
             "http://digi.dtv3.lol:2082/live/brahim_534584/L9SMFXGx/1641624.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346824.m3u8",
@@ -321,6 +323,7 @@
         {
           "name": "ALKASS SPORTS 1",
           "urls": [
+            "http://80.96.109.140/tv?url=http://qwerty8520.online:2052/live/65915200071160/12404689442647/187865.ts",
             "http://asmr4k.pro:8080/live/67389201934/0572884955/566421.m3u8",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/242232.m3u8",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/712436.m3u8",
