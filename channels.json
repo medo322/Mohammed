@@ -321,6 +321,7 @@
         {
           "name": "ALKASS SPORTS 1",
           "urls": [
+            "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28592.m3u8",
             "http://asmr4k.pro:8080/live/67389201934/0572884955/566421.m3u8",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/242232.m3u8",
@@ -338,6 +339,7 @@
         {
           "name": "ALKASS SPORTS 2",
           "urls": [
+            "https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28597.m3u8",
             "http://look4k.net/live/Bassamtv/23052025/7701.m3u8",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/242231.m3u8",
@@ -352,6 +354,7 @@
         {
           "name": "ALKASS SPORTS 3",
           "urls": [
+            "https://storage.googleapis.com/livealkass-eu/alkass3-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28596.m3u8",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/242229.m3u8",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/712438.m3u8",
@@ -365,6 +368,7 @@
         {
           "name": "ALKASS SPORTS 4",
           "urls": [
+            "https://storage.googleapis.com/livealkass-eu/alkass4-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28593.m3u8",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/242230.m3u8",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/712439.m3u8",
@@ -378,6 +382,7 @@
         {
           "name": "ALKASS SPORTS 5",
           "urls": [
+            "https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240765.ts",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/712440.m3u8",
             "http://m2.haruto.store:8080/114168367645/238189512676/51846",
@@ -387,6 +392,7 @@
         {
           "name": "ALKASS SPORTS 6",
           "urls": [
+            "https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240766.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51847",
             "http://darhome.xyz:8080/live/Wolfgang123/bCZKSkkjPv/557419.m3u8"
@@ -395,8 +401,15 @@
         {
           "name": "ALKASS SPORTS 7",
           "urls": [
+            "https://storage.googleapis.com/livealkass-eu/alkass7-p/main.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240768.ts",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240767.ts"
+          ]
+        },
+        {
+          "name": "ALKASS SPORTS 8",
+          "urls": [
+            "https://storage.googleapis.com/livealkass-eu/alkass8-p/main.m3u8"
           ]
         }
       ]
@@ -699,6 +712,7 @@
           "name": "الكويت الرياضية 1",
           "urls": [
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230819.ts",
+            "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97826.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97826.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97826.ts"
@@ -708,6 +722,7 @@
           "name": "الكويت الرياضية 2",
           "urls": [
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230822.ts",
+            "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/328663.ts"
           ]
         },
