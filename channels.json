@@ -420,6 +420,7 @@
         {
           "name": "السعودية الرياضية 1",
           "urls": [
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1137.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230828.ts",
             "http://look4k.net/live/Bassamtv/23052025/7706.m3u8",
             "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/99568238612202/11488579816069/143751.ts",
@@ -432,6 +433,7 @@
         {
           "name": "السعودية الرياضية 2",
           "urls": [
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1136.m3u8",
             "http://look4k.net/live/Bassamtv/23052025/7705.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230812.ts",
             "http://look4k.net/live/Bassamtv/23052025/7705.m3u8",
@@ -729,6 +731,7 @@
         {
           "name": "البحرين الرياضية 1",
           "urls": [
+            "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/66383.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/66383.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/66383.ts"
@@ -737,6 +740,7 @@
         {
           "name": "البحرين الرياضية2",
           "urls": [
+            "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/328662.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/328662.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/328662.ts"
