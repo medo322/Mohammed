@@ -396,6 +396,7 @@
             "http://live-albashatv.site/tv?url=http://qwerty8520.online:2052/live/54065766493181/18948488554363/187865.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355421.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/566421.ts",
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1133.m3u8",
             "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28592.m3u8",
             "http://asmr4k.pro:8080/live/67389201934/0572884955/566421.m3u8",
@@ -416,7 +417,7 @@
           "urls": [
             "http://live-albashatv.site/tv?url=http://qwerty8520.online:2052/live/54065766493181/18948488554363/187868.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355422.ts",
-            "http://asmr4k.world:8080/live/9932081304/4200945603/566422.ts",
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1132.m3u8",
             "https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28597.m3u8",
             "http://look4k.net/live/Bassamtv/23052025/7701.m3u8",
@@ -449,6 +450,7 @@
         {
           "name": "ALKASS SPORTS 4",
           "urls": [
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1130.m3u8",
             "http://live-albashatv.site/tv?url=http://qwerty8520.online:2052/live/54065766493181/18948488554363/187867.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/566424.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355424.ts",
@@ -495,6 +497,7 @@
         {
           "name": "ALKASS SPORTS 8",
           "urls": [
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1133.m3u8",
             "https://storage.googleapis.com/livealkass-eu/alkass8-p/main.m3u8"
           ]
         }
@@ -611,6 +614,7 @@
           "urls": [
             "http://217.60.15.125:8080/IN-g77AXBdPIFJNzDjwuvezmrYIhDnEuzJehjaV9fO5FyRYXmb0i2mACOKhP",
             "http://live-albashatv.site/tv?url=http://qwerty8520.online:2052/live/54065766493181/18948488554363/67372.ts",
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1142.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355417.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/440010.ts",
             "http://look4k.net/live/Bassamtv/23052025/7726.m3u8",
@@ -629,6 +633,7 @@
             "http://217.60.15.18:8080/IJGywH698LSHiLGPkcOUu4KxVuy37hzrSA-cwUkCjEcqrIhS6NvKu5SugD0v",
             "http://live-albashatv.site/tv?url=http://qwerty8520.online:2052/live/54065766493181/18948488554363/67374.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355418.ts",
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1141.m3u8",
             "http://look4k.net/live/Bassamtv/23052025/7721.m3u8",
             "http://look4k.net/live/Bassamtv/23052025/7728.m3u8",
             "http://look4k.net/live/Bassamtv/23052025/7719.m3u8",
@@ -789,6 +794,7 @@
         {
           "name": "Nile sport",
           "urls": [
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1122.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230810.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97824.ts"
           ]
@@ -796,6 +802,8 @@
         {
           "name": "الاهلي المصري",
           "urls": [
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1146.m3u8",
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1143.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230808.ts",
             "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/99568238612202/11488579816069/143739.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97823.ts",
@@ -809,6 +817,12 @@
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97877.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97877.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97877.ts"
+          ]
+        },
+        {
+          "name": "عمان TV",
+          "urls": [
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1155.m3u8"
           ]
         },
         {
@@ -875,6 +889,7 @@
         {
           "name": "الأردن الرياضية",
           "urls": [
+            "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1158.m3u8",
             "http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/99568238612202/11488579816069/143775.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/109699.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/109699.ts",
