@@ -274,6 +274,8 @@
         {
           "name": "ALWAN SPORTS 3",
           "urls": [
+            "http://het2.maxtraffic.homes/222233/tracks-v1a1/mono.m3u8",
+            "http://het2.maxtraffic.homes/222239/tracks-v1a1/mono.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346828.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346829.ts",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/402382.m3u8",
@@ -287,6 +289,8 @@
         {
           "name": "ALWAN SPORTS 4",
           "urls": [
+            "http://het2.maxtraffic.homes/222234/tracks-v1a1/mono.m3u8",
+            "http://het2.maxtraffic.homes/222240/tracks-v1a1/mono.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346830.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346831.ts",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/402378.m3u8",
@@ -302,6 +306,8 @@
         {
           "name": "ALWAN SPORTS 5",
           "urls": [
+            "http://het2.maxtraffic.homes/222235/tracks-v1a1/mono.m3u8",
+            "http://het2.maxtraffic.homes/222241/tracks-v1a1/mono.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346832.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346833.ts",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/402376.m3u8",
@@ -324,6 +330,8 @@
         {
           "name": "ALWAN SPORTS 6",
           "urls": [
+            "http://het2.maxtraffic.homes/222236/tracks-v1a1/mono.m3u8",
+            "http://het2.maxtraffic.homes/222242/tracks-v1a1/mono.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346834.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346835.ts",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/402373.m3u8",
@@ -390,6 +398,7 @@
         {
           "name": "ALKASS SPORTS 1",
           "urls": [
+            "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355421.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/566421.ts",
             "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1133.m3u8",
@@ -411,6 +420,7 @@
         {
           "name": "ALKASS SPORTS 2",
           "urls": [
+            "https://alkatlankass.xmax1tv.com/channel_2.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355422.ts",
             "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1132.m3u8",
             "https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8",
@@ -428,6 +438,7 @@
         {
           "name": "ALKASS SPORTS 3",
           "urls": [
+            "https://alkatlankass.xmax1tv.com/channel_3.m3u8",
             "http://live-albashatv.site/tv?url=http://qwerty8520.online:2052/live/54065766493181/18948488554363/187863.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/566423.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355423.ts",
@@ -445,6 +456,7 @@
         {
           "name": "ALKASS SPORTS 4",
           "urls": [
+            "https://alkatlankass.xmax1tv.com/channel_4.m3u8",
             "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1130.m3u8",
             "http://live-albashatv.site/tv?url=http://qwerty8520.online:2052/live/54065766493181/18948488554363/187867.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/566424.ts",
