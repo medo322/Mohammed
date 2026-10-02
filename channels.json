@@ -6,6 +6,7 @@
         {
           "name": "BEIN SPORTS 1",
           "urls": [
+            "https://raw.githubusercontent.com/medo322/Mohammed/refs/heads/main/master.m3u8",
             "http://het1.maxtraffic.homes/196179/tracks-v1a1/mono.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/540662.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1112750.ts",
