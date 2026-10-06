@@ -859,6 +859,7 @@
                 {
           "name": "يمن شباب",
           "urls": [
+            "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/14865.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/14865.ts"
           ]
