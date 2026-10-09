@@ -456,35 +456,45 @@
       "name": "SOLO SPORT 1",
       "urls": [
         "http://vlue.vip:80/live/958932105432/576184553975/790017.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790018.m3u8"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723479.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790018.m3u8",
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723480.ts"
       ]
     },
     {
       "name": "SOLO SPORT 2",
       "urls": [
         "http://vlue.vip:80/live/958932105432/576184553975/790021.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790022.m3u8"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723483.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790022.m3u8",
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723484.ts"
       ]
     },
     {
       "name": "SOLO SPORT 3",
       "urls": [
         "http://vlue.vip:80/live/958932105432/576184553975/790025.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790026.m3u8"
+       "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723487.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790026.m3u8",
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723488.ts",
       ]
     },
     {
       "name": "SOLO SPORT 4",
       "urls": [
         "http://vlue.vip:80/live/958932105432/576184553975/790029.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790030.m3u8"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723491.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790030.m3u8",
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723492.ts"
       ]
     },
     {
       "name": "SOLO SPORT 5",
       "urls": [
         "http://vlue.vip:80/live/958932105432/576184553975/790033.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790034.m3u8"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723495.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790034.m3u8",
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723496.ts"
       ]
     }
   ]
@@ -653,8 +663,8 @@
         {
           "name": "ALKASS SPORTS 6",
           "urls": [
-            "https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8",
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240766.ts",
+            "https://k.kianezidi1.workers.dev/six.m3u8",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/200001.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51847",
             "http://darhome.xyz:8080/live/Wolfgang123/bCZKSkkjPv/557419.m3u8"
           ]
@@ -662,15 +672,16 @@
         {
           "name": "ALKASS SPORTS 7",
           "urls": [
-            "https://storage.googleapis.com/livealkass-eu/alkass7-p/main.m3u8",
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240768.ts",
+            "https://k.kianezidi1.workers.dev/seven.m3u8",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/392712.ts",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240767.ts"
           ]
         },
         {
           "name": "ALKASS SPORTS 8",
           "urls": [
-            "http://asmr4k.world:8080/live/9932081304/4200945603/355421.ts"
+            "https://k.kianezidi1.workers.dev/eight.m3u8",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/392713.ts"
           ]
         }
       ]
@@ -739,15 +750,16 @@
         {
           "name": "STARZPLAY 1",
           "urls": [
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240752.ts",
-            "http://192.142.25.250:8080/114168367645/238189512676/51884?token=fUdbUb.yafaczb.X.bzyXcb.yHXUbUydzb.X.y.IQ.ts.0f629614866e12386eb78ba77f283592cda83997ff111231a5c207c990c0cdd5...bTIuaGFydXRvLnN0b3JlOjgwODA=",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67376.ts",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67377.ts",
             "http://192.142.27.107:8080/114168367645/238189512676/51887?token=fUdbUb.fbycUUz.y.fbycfXf.yHXUbUafyd.X.y.IQ.ts.590efdd0a5a7ef4efc595757c9f4c48b81e76740b15763ae99a5d668da585b77...bTIuaGFydXRvLnN0b3JlOjgwODA="
           ]
         },
         {
           "name": "STARZPLAY 2",
           "urls": [
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240753.ts",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67378.ts",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67379.ts",
             "http://192.142.27.107:8080/114168367645/238189512676/51885?token=fUdbUb.fcUfaHa.y.fcUyXzf.yHXUbUacUy.X.y.IQ.ts.f5ead901fdfff30c1b27895e7d63ee5852b08a92ce218b41ca34598ce4d13160...bTIuaGFydXRvLnN0b3JlOjgwODA=",
             "http://93.113.203.74:8080/114168367645/238189512676/51888?token=fUdbUb.X.y.X.yHXUbUacUd.X.y.IQ.ts.17fc4939a176dcfca88a222062111f73d7724b2f0fc4edb1117681aeba454da2...bTIuaGFydXRvLnN0b3JlOjgwODA="
           ]
@@ -755,8 +767,8 @@
         {
           "name": "الثمانية 1",
           "urls": [
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/181611.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1112501.ts",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/646089.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1112503.ts",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/220961.ts",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/381478.m3u8",
@@ -767,8 +779,8 @@
         {
           "name": "الثمانية 2",
           "urls": [
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/220682.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1112504.ts",
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/646090.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1112506.ts",
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/381477.m3u8",
             "http://217.60.15.51:2095/live//ksa92543/49566522386/429517.ts?token=bydUcd.fzzdy.X.fzyyf.yHXUHXcfaX.X.y.IQ.ts.3bf84978649cd01eaed5934a37920ca2ffc7095453a703656ee39571814c1053.59588.QWwgQXRoZWVyIFRlbGVjb21tdW5pY2F0aW9uLUlyYXEgQ28uIEluY29ycG9yYXRlZA==.MTg1LjE5MS4xMjYuMTI3",
@@ -873,7 +885,9 @@
         {
           "name": "العراقية الرياضية",
           "urls": [
+            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/97079.ts",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/278652.m3u8",
+            "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28505.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230815.ts",
             "http://217.60.15.101:8080/INRBaQI2kn7yQOPR0O7G8LkXgQTwmgbEIyR2S6N9VZ5Dju8k8M6IBqADqZya",
@@ -881,7 +895,6 @@
             "http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/158029.m3u8",
             "http://185.191.126.127:8080/live//cks43bj7qfsoa/y2w7etojwtdle/107038.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/107038.ts",
-            "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
             "http://lio100.xyz/live/15034094901029/18800196589372/107038.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/107038.ts"
           ]
