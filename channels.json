@@ -455,46 +455,46 @@
     {
       "name": "SOLO SPORT 1",
       "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790017.m3u8",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723479.ts",
         "http://vlue.vip:80/live/958932105432/576184553975/790018.m3u8",
-        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723480.ts"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723480.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790017.m3u8",
       ]
     },
     {
       "name": "SOLO SPORT 2",
       "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790021.m3u8",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723483.ts",
         "http://vlue.vip:80/live/958932105432/576184553975/790022.m3u8",
-        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723484.ts"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723484.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790021.m3u8"
       ]
     },
     {
       "name": "SOLO SPORT 3",
       "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790025.m3u8",
        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723487.ts",
         "http://vlue.vip:80/live/958932105432/576184553975/790026.m3u8",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723488.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790025.m3u8"
       ]
     },
     {
       "name": "SOLO SPORT 4",
       "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790029.m3u8",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723491.ts",
         "http://vlue.vip:80/live/958932105432/576184553975/790030.m3u8",
-        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723492.ts"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723492.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790029.m3u8"
       ]
     },
     {
       "name": "SOLO SPORT 5",
       "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790033.m3u8",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723495.ts",
         "http://vlue.vip:80/live/958932105432/576184553975/790034.m3u8",
-        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723496.ts"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723496.ts",
+        "http://vlue.vip:80/live/958932105432/576184553975/790033.m3u8"
       ]
     }
   ]
@@ -531,7 +531,7 @@
     {
       "name": "SHAHID SPORTS 1",
       "urls": [
-        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674793.ts"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674797.ts"
       ]
     },
     {
@@ -555,7 +555,7 @@
     {
       "name": "SHAHID SPORTS 5",
       "urls": [
-        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674797.ts"
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674793.ts"
       ]
     },
     {
@@ -886,6 +886,7 @@
           "name": "العراقية الرياضية",
           "urls": [
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/97079.ts",
+            "http://sa.xurvani.cfd/live/564500400/3839746022/498645.ts",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/278652.m3u8",
             "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28505.m3u8",
