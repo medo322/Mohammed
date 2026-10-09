@@ -424,6 +424,46 @@
       ]
     },
     {
+  "name": "SOLO SPORTS",
+  "channels": [
+    {
+      "name": "SOLO SPORT 1",
+      "urls": [
+        "http://vlue.vip:80/live/958932105432/576184553975/790017.m3u8",
+        "http://vlue.vip:80/live/958932105432/576184553975/790018.m3u8"
+      ]
+    },
+    {
+      "name": "SOLO SPORT 2",
+      "urls": [
+        "http://vlue.vip:80/live/958932105432/576184553975/790021.m3u8",
+        "http://vlue.vip:80/live/958932105432/576184553975/790022.m3u8"
+      ]
+    },
+    {
+      "name": "SOLO SPORT 3",
+      "urls": [
+        "http://vlue.vip:80/live/958932105432/576184553975/790025.m3u8",
+        "http://vlue.vip:80/live/958932105432/576184553975/790026.m3u8"
+      ]
+    },
+    {
+      "name": "SOLO SPORT 4",
+      "urls": [
+        "http://vlue.vip:80/live/958932105432/576184553975/790029.m3u8",
+        "http://vlue.vip:80/live/958932105432/576184553975/790030.m3u8"
+      ]
+    },
+    {
+      "name": "SOLO SPORT 5",
+      "urls": [
+        "http://vlue.vip:80/live/958932105432/576184553975/790033.m3u8",
+        "http://vlue.vip:80/live/958932105432/576184553975/790034.m3u8"
+      ]
+    }
+  ]
+},
+    {
   "name": "SHASHA SPORTS",
   "channels": [
     {
@@ -1013,46 +1053,6 @@
     }
     ]
     },
-    {
-  "name": "SOLO SPORTS",
-  "channels": [
-    {
-      "name": "SOLO SPORT 1",
-      "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790017.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790018.m3u8"
-      ]
-    },
-    {
-      "name": "SOLO SPORT 2",
-      "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790021.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790022.m3u8"
-      ]
-    },
-    {
-      "name": "SOLO SPORT 3",
-      "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790025.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790026.m3u8"
-      ]
-    },
-    {
-      "name": "SOLO SPORT 4",
-      "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790029.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790030.m3u8"
-      ]
-    },
-    {
-      "name": "SOLO SPORT 5",
-      "urls": [
-        "http://vlue.vip:80/live/958932105432/576184553975/790033.m3u8",
-        "http://vlue.vip:80/live/958932105432/576184553975/790034.m3u8"
-      ]
-    }
-  ]
-},
     {
       "name": "ENGLISH SPORTS",
       "channels": [
