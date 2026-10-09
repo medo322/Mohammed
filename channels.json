@@ -424,6 +424,79 @@
       ]
     },
     {
+  "name": "SHASHA SPORTS",
+  "channels": [
+    {
+      "name": "SHASHA SPORTS 1",
+      "urls": [
+        "https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_48531dd0d68011f089c69d31d64066d9/index.m3u8",
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/651422.ts",
+        "https://sport.redstv-yahaydeve.workers.dev/live/reds10.m3u8"
+      ]
+    },
+    {
+      "name": "SHASHA SPORTS 2",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67380.ts",
+        "https://sport.redstv-yahaydeve.workers.dev/live/reds11.m3u8"
+      ]
+    },
+    {
+      "name": "SHASHA SPORTS 3",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67383.ts"
+      ]
+    }
+  ]
+},
+{
+  "name": "SHAHID SPORTS",
+  "channels": [
+    {
+      "name": "SHAHID SPORTS 1",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674793.ts"
+      ]
+    },
+    {
+      "name": "SHAHID SPORTS 2",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674794.ts"
+      ]
+    },
+    {
+      "name": "SHAHID SPORTS 3",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674795.ts"
+      ]
+    },
+    {
+      "name": "SHAHID SPORTS 4",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674796.ts"
+      ]
+    },
+    {
+      "name": "SHAHID SPORTS 5",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674797.ts"
+      ]
+    },
+    {
+      "name": "SHAHID SPORTS 6",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674798.ts"
+      ]
+    },
+    {
+      "name": "SHAHID SPORTS 7",
+      "urls": [
+        "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674799.ts"
+      ]
+    }
+  ]
+},
+    {
       "name": "ALKASS SPORTS",
       "channels": [
         {
