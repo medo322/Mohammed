@@ -1081,20 +1081,16 @@
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/109699.ts"
           ]
         },
-        {
+{
   "name": "بث تجريبي",
   "urls": [
-    "https://redperch.space/dramacardinalv2.php?id=beinsport1"
-  ],
-  "user_agent": "Rplayerv2.0.16",
-  "referer": "",
-  "origin": "",
-  "cookie": "rplayer_access=1d442accd87af8a69978d18e1r65ca559683678661313c722667ce79dd905606"
-    }
-    ]
+    "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/674797.ts"
+          ]
+        }
+      ]
     },
-    {
-      "name": "ENGLISH SPORTS",
+{
+  "name": "ENGLISH SPORTS",
       "channels": [
         {
       "name": "ESPN 1",
