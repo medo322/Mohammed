@@ -298,7 +298,7 @@
           "urls": [
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649702.ts",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649708.ts",
-            "http://het2.2depannage.cyou/222231/tracks-v1a1/mono.m3u8",
+            "http://sa.xurvani.cfd/live/564500400/3839746022/738881.ts",
             "http://lukky3779885.site:2095/live/069660184192/871172472945/909605.ts",
             "http://lukky3779885.site:2095/live/069660184192/871172472945/909606.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346824.ts",
@@ -324,7 +324,7 @@
           "urls": [
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649703.ts",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649709.ts",
-            "http://het2.2depannage.cyou/222232/tracks-v1a1/mono.m3u8",
+            "http://sa.xurvani.cfd/live/564500400/3839746022/738880.ts",
             "http://lukky3779885.site:2095/live/069660184192/871172472945/909608.ts",
             "http://lukky3779885.site:2095/live/069660184192/871172472945/909609.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346826.ts",
@@ -341,7 +341,7 @@
           "urls": [
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649704.ts",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649710.ts",
-            "http://het2.2depannage.cyou/222233/tracks-v1a1/mono.m3u8",
+            "http://sa.xurvani.cfd/live/564500400/3839746022/738879.ts",
             "http://lukky3779885.site:2095/live/069660184192/871172472945/909611.ts",
             "http://lukky3779885.site:2095/live/069660184192/871172472945/909612.ts",
             "http://asmr4k.world:8080/live/9932081304/4200945603/1346828.ts",
@@ -455,8 +455,10 @@
     {
       "name": "SOLO SPORT 1",
       "urls": [
+        "http://sa.xurvani.cfd/live/564500400/3839746022/834441.ts",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723479.ts",
         "http://vlue.vip:80/live/958932105432/576184553975/790018.m3u8",
+        "http://sa.xurvani.cfd/live/564500400/3839746022/834440.ts",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723480.ts",
         "http://vlue.vip:80/live/958932105432/576184553975/790017.m3u8",
       ]
@@ -464,6 +466,7 @@
     {
       "name": "SOLO SPORT 2",
       "urls": [
+        "",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723483.ts",
         "http://vlue.vip:80/live/958932105432/576184553975/790022.m3u8",
         "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723484.ts",
