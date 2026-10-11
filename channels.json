@@ -734,7 +734,7 @@
         {
           "name": "STC SPORT 1",
           "urls": [
-            "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421391.ts",
+            "http://a.norzro.cfd/live/8667593288/2505245402/722157.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/421391.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/421391.ts"
           ]
@@ -742,7 +742,7 @@
         {
           "name": "STC SPORT 2",
           "urls": [
-            "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421392.ts",
+            "http://a.norzro.cfd/live/8667593288/2505245402/723253.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/421392.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/421392.ts"
           ]
@@ -752,7 +752,7 @@
           "urls": [
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67376.ts",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67377.ts",
-            "http://192.142.27.107:8080/114168367645/238189512676/51887?token=fUdbUb.fbycUUz.y.fbycfXf.yHXUbUafyd.X.y.IQ.ts.590efdd0a5a7ef4efc595757c9f4c48b81e76740b15763ae99a5d668da585b77...bTIuaGFydXRvLnN0b3JlOjgwODA="
+            "http://a.norzro.cfd/live/8667593288/2505245402/616420.ts"
           ]
         },
         {
@@ -760,7 +760,7 @@
           "urls": [
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67378.ts",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/67379.ts",
-            "http://192.142.27.107:8080/114168367645/238189512676/51885?token=fUdbUb.fcUfaHa.y.fcUyXzf.yHXUbUacUy.X.y.IQ.ts.f5ead901fdfff30c1b27895e7d63ee5852b08a92ce218b41ca34598ce4d13160...bTIuaGFydXRvLnN0b3JlOjgwODA=",
+            "http://a.norzro.cfd/live/8667593288/2505245402/616419.ts",
             "http://93.113.203.74:8080/114168367645/238189512676/51888?token=fUdbUb.X.y.X.yHXUbUacUd.X.y.IQ.ts.17fc4939a176dcfca88a222062111f73d7724b2f0fc4edb1117681aeba454da2...bTIuaGFydXRvLnN0b3JlOjgwODA="
           ]
         },
@@ -952,8 +952,8 @@
         {
           "name": "ON SPORT 1",
           "urls": [
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230807.ts",
-            "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97820.ts",
+            "http://a.norzro.cfd/live/8667593288/2505245402/421580.ts",
+            "http://iptv.1stv.xyz/live/1stMovies/g7889U9oLjGsc/2403.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97820.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97820.ts"
           ]
@@ -961,7 +961,7 @@
         {
           "name": "ON SPORT PLUS",
           "urls": [
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230802.ts",
+            "http://iptv.1stv.xyz/live/1stMovies/g7889U9oLjGsc/3955.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97825.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97825.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97825.ts"
@@ -970,7 +970,7 @@
         {
           "name": "ON SPORT MAX",
           "urls": [
-            "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230805.ts",
+            "http://iptv.1stv.xyz/live/1stMovies/g7889U9oLjGsc/1500.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97821.ts",
             "http://lio100.xyz/live/15034094901029/18800196589372/97821.ts",
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/97821.ts"
@@ -979,6 +979,7 @@
         {
           "name": "Nile sport",
           "urls": [
+            "http://iptv.1stv.xyz/live/1stMovies/g7889U9oLjGsc/130.ts",
             "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1122.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/230810.ts",
             "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/97824.ts"
