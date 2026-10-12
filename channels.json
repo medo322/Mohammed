@@ -222,6 +222,12 @@
     {
   "name": "BEIN TOD",
   "channels": [
+      {
+      "name": "BEIN TOD 4K",
+      "urls": [
+        "http://asmr4k.world:8080/live/hr7457755/h47544577/440081.ts"
+      ]
+    },
     {
       "name": "BEIN TOD 1",
       "urls": [
