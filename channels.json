@@ -278,7 +278,8 @@
     {
       "name": "BEIN TOD 9",
       "urls": [
-        "http://185.191.126.127:8080/live///171384993281/203611024752/460844.ts"
+        "http://185.191.126.127:8080/live///171384993281/203611024752/460844.ts",
+        "http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:04:BF:83&stream=1744949&extension=ts"
       ]
     },
     {
