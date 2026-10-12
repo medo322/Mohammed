@@ -581,6 +581,7 @@
           "name": "ALKASS SPORTS 1",
           "urls": [
             "https://alkatlankass.xmax1tv.com/channel_1.m3u8",
+            "https://yallanshufxsite.site/channel1.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355421.ts",
             "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1133.m3u8",
             "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
@@ -601,7 +602,7 @@
           "name": "ALKASS SPORTS 2",
           "urls": [
             "https://alkatlankass.xmax1tv.com/channel_2.m3u8",
-            "http://asmr4k.world:8080/live/9932081304/4200945603/355422.ts",
+            "https://yallanshufxsite.site/channel2.m3u8",
             "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1132.m3u8",
             "https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28597.m3u8",
@@ -619,7 +620,7 @@
           "name": "ALKASS SPORTS 3",
           "urls": [
             "https://alkatlankass.xmax1tv.com/channel_3.m3u8",
-            "http://asmr4k.world:8080/live/9932081304/4200945603/566423.ts",
+            "https://yallanshufxsite.site/channel3.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355423.ts",
             "https://storage.googleapis.com/livealkass-eu/alkass3-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28596.m3u8",
@@ -637,7 +638,7 @@
           "urls": [
             "https://alkatlankass.xmax1tv.com/channel_4.m3u8",
             "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/1130.m3u8",
-            "http://asmr4k.world:8080/live/9932081304/4200945603/566424.ts",
+            "https://yallanshufxsite.site/channel4.m3u8",
             "http://asmr4k.world:8080/live/9932081304/4200945603/355424.ts",
             "https://storage.googleapis.com/livealkass-eu/alkass4-p/main.m3u8",
             "http://live.8kultra.org/live/774d0fb4d/c4c0646db/28593.m3u8",
@@ -653,8 +654,8 @@
         {
           "name": "ALKASS SPORTS 5",
           "urls": [
-            "http://asmr4k.world:8080/live/9932081304/4200945603/355425.ts",
-            "http://asmr4k.world:8080/live/9932081304/4200945603/566425.ts",
+           "https://k.kianezidi1.workers.dev/five.m3u8",
+            "https://yallanshufxsite.site/channel5.m3u8",
             "https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240765.ts",
             "http://mag.tiger-ott.net:80/live/KEBD2U/7F8W2T/712440.m3u8",
@@ -665,6 +666,7 @@
         {
           "name": "ALKASS SPORTS 6",
           "urls": [
+            "https://yallanshufxsite.site/channel6.m3u8",
             "https://k.kianezidi1.workers.dev/six.m3u8",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/200001.ts",
             "http://m2.haruto.store:8080/114168367645/238189512676/51847",
@@ -675,6 +677,7 @@
           "name": "ALKASS SPORTS 7",
           "urls": [
             "https://k.kianezidi1.workers.dev/seven.m3u8",
+            "https://yallanshufxsite.site/channel7.m3u8",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/392712.ts",
             "http://pro.netmos.ovh:7355/live/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/240767.ts"
           ]
@@ -683,7 +686,7 @@
           "name": "ALKASS SPORTS 8",
           "urls": [
             "https://k.kianezidi1.workers.dev/eight.m3u8",
-            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/392713.ts"
+            "https://yallanshufxsite.site/channel8.m3u8"
           ]
         }
       ]
