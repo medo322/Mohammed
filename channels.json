@@ -23,6 +23,22 @@
           ]
         },
         {
+  "name": "BIEN SPORTS 1 4K/HD/SD",
+  "urls": [
+    "http://az2k9.store/live/0566159920/922639994179/483654.m3u8",
+    "http://az2k9.store/live/0566159920/922639994179/483655.m3u8",
+    "http://az2k9.store/live/0566159920/922639994179/483656.m3u8"
+          ]
+        },
+       {
+  "name": "BIEN SPORTS 1 4K",
+  "urls": [
+    "http://sa.xurvani.cfd/live/564500400/3839746022/569518.ts",
+    "http://sa.xurvani.cfd/live/564500400/3839746022/569493.ts",
+    "http://sa.xurvani.cfd/live/564500400/3839746022/569500.ts"
+          ]
+        },
+        {
           "name": "BEIN SPORTS 2",
           "urls": [
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677058.ts",
