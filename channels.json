@@ -23,21 +23,16 @@
           ]
         },
         {
-  "name": "BIEN SPORTS 1 4K/HD/SD",
-  "urls": [
-    "http://az2k9.store/live/0566159920/922639994179/483654.m3u8",
-    "http://az2k9.store/live/0566159920/922639994179/483655.m3u8",
-    "http://az2k9.store/live/0566159920/922639994179/483656.m3u8"
-          ]
-        },
-       {
-  "name": "BIEN SPORTS 1 4K",
-  "urls": [
-    "http://sa.xurvani.cfd/live/564500400/3839746022/569518.ts",
-    "http://sa.xurvani.cfd/live/564500400/3839746022/569493.ts",
-    "http://sa.xurvani.cfd/live/564500400/3839746022/569500.ts"
-          ]
-        },
+          "name": "BEIN SPORTS 1 4K",
+          "urls": [
+            "http://sa.xurvani.cfd/live/564500400/3839746022/569518.ts",
+            "http://az2k9.store/live/0566159920/922639994179/483654.m3u8",
+            "http://sa.xurvani.cfd/live/564500400/3839746022/569493.ts",
+            "http://az2k9.store/live/0566159920/922639994179/483655.m3u8",
+            "http://sa.xurvani.cfd/live/564500400/3839746022/569500.ts",
+            "http://az2k9.store/live/0566159920/922639994179/483656.m3u8"
+          ]
+        },
         {
           "name": "BEIN SPORTS 2",
           "urls": [
@@ -88,6 +83,17 @@
             "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/325805.ts"
           ]
         },
+        {
+          "name": "BEIN SPORTS 3 4K",
+          "urls": [
+            "http://sa.xurvani.cfd/live/564500400/3839746022/569516.ts",
+            "http://az2k9.store/live/0566159920/922639994179/483660.m3u8",
+            "http://sa.xurvani.cfd/live/564500400/3839746022/569491.ts",
+            "http://az2k9.store/live/0566159920/922639994179/483661.m3u8",
+            "http://sa.xurvani.cfd/live/564500400/3839746022/569498.ts",
+            "http://az2k9.store/live/0566159962/922639994179/483655.m3u8"
+          ]
+        },
         {
           "name": "BEIN SPORTS 4",
           "urls": [
