@@ -1,6 +1,6 @@
 {
   "vpn_protection": false,
-  "network_tool_detection": false,
+  "network_tool_detection": true,
   "vpn_title": "تم اكتشاف اتصال VPN",
   "vpn_message": "يرجى إيقاف تشغيل VPN حتى تتمكن من استخدام MOHAMMED TV.",
   "vpn_button": "إعادة المحاولة",
