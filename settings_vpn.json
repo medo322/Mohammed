@@ -1,10 +1,10 @@
 {
-"vpn_protection": false,
-"network_tool_detection": false,
-"vpn_title": "تم اكتشاف اتصال VPN",
-"vpn_message": "يرجى إيقاف تشغيل VPN حتى تتمكن من استخدام MOHAMMED TV.",
-"vpn_button": "إعادة المحاولة",
-"tool_title": "تم اكتشاف أداة تحليل شبكة",
-"tool_message": "يرجى إيقاف أدوات تحليل حركة الشبكة قبل استخدام MOHAMMED TV.",
-"tool_button": "إعادة المحاولة"
+  "vpn_protection": true,
+  "network_tool_detection": false,
+  "vpn_title": "تم اكتشاف اتصال VPN",
+  "vpn_message": "يرجى إيقاف تشغيل VPN حتى تتمكن من استخدام MOHAMMED TV.",
+  "vpn_button": "إعادة المحاولة",
+  "tool_title": "تم اكتشاف أداة تحليل شبكة",
+  "tool_message": "يرجى إيقاف أدوات تحليل حركة الشبكة قبل استخدام MOHAMMED TV.",
+  "tool_button": "إعادة المحاولة"
 }
