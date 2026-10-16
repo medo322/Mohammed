@@ -1,10 +1,19 @@
 {
-  "vpn_protection": false,
-  "network_tool_detection": false,
-  "vpn_title": "تم اكتشاف اتصال VPN",
-  "vpn_message": "يرجى إيقاف تشغيل VPN حتى تتمكن من استخدام MOHAMMED TV.",
-  "vpn_button": "إعادة المحاولة",
-  "tool_title": "تم اكتشاف أداة تحليل شبكة",
-  "tool_message": "يرجى إيقاف أدوات تحليل حركة الشبكة قبل استخدام MOHAMMED TV.",
-  "tool_button": "إعادة المحاولة"
+"vpn_protection": false,
+"network_tool_detection": false,
+"proxy_detection": false,
+"monitoring_enabled": false,
+"response_mode": "warn_block",
+
+"vpn_title": "تم اكتشاف اتصال VPN",
+"vpn_message": "يرجى إيقاف تشغيل VPN حتى تتمكن من استخدام MOHAMMED TV.",
+"vpn_button": "إعادة المحاولة",
+
+"tool_title": "تم اكتشاف أداة تحليل شبكة",
+"tool_message": "وجود أداة تحليل الشبكة وحده لا يعني أنها تعترض اتصالات التطبيق.",
+"tool_button": "إعادة المحاولة",
+
+"proxy_title": "تم اكتشاف إعداد Proxy",
+"proxy_message": "اكتشف التطبيق إعداد Proxy للشبكة. قد يكون هذا الإعداد مشروعاً، لذلك تحقق من إعدادات الاتصال قبل المتابعة.",
+"proxy_button": "إعادة المحاولة"
 }
