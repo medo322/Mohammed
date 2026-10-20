@@ -53,6 +53,12 @@
           ]
         },
         {
+  "name": "BEIN TOD 2",
+  "urls": [
+    "http://checkalb.xyz/live/6a54ea2094d9/03eab351d4/2016500.ts"
+  ]
+},
+        {
           "name": "BEIN SPORTS 3",
           "urls": [
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677041.ts",
