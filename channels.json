@@ -8,7 +8,7 @@
 "urls": [
   "https://dt34yxsqala61.cloudfront.net/live/918454578001/index.m3u8",
   "https://amp.infoersser.best/heza1_720/index.m3u8",
-  "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_hd.m3u8",
+  "http://uniquemax.xyz:2052/10375497945304/24779171855387/677057",
   "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_sd.m3u8",
   "http://premium2.ottpro2.org/live/alexandre/5939369/13614.ts",
   "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677039.ts",
@@ -326,6 +326,7 @@
         {
           "name": "ALWAN SPORTS 1",
           "urls": [
+            "https://rrzz.ars2007prs.workers.dev/bein.sports.1/beinsport1_hd.m3u8",
             "http://vu-smart.store/live/6302742257/9446012228/757051.ts",
             "http://vu-smart.store/live/6302742257/9446012228/757057.ts",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649702.ts",
@@ -354,7 +355,7 @@
         {
           "name": "ALWAN SPORTS 2",
           "urls": [
-            "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649703.ts",
+            "https://rrzz.ars2007prs.workers.dev/bein.sports.2/beinsport2_hd.m3u8",
             "http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/649709.ts",
             "http://sa.xurvani.cfd/live/564500400/3839746022/738880.ts",
             "http://lukky3779885.site:2095/live/069660184192/871172472945/909608.ts",
