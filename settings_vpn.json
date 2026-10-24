@@ -1,8 +1,8 @@
 {
 "vpn_protection": false,
-"network_tool_detection": false,
-"proxy_detection": false,
-"monitoring_enabled": false,
+"network_tool_detection": true,
+"proxy_detection": true,
+"monitoring_enabled": true,
 "response_mode": "warn_block",
 
 "vpn_title": "تم اكتشاف اتصال VPN",
@@ -10,10 +10,10 @@
 "vpn_button": "إعادة المحاولة",
 
 "tool_title": "تم اكتشاف أداة تحليل شبكة",
-"tool_message": "وجود أداة تحليل الشبكة وحده لا يعني أنها تعترض اتصالات التطبيق.",
+"tool_message": "عذراً، تم اكتشاف أداة تحليل شبكة أو Proxy نشط. لا يمكن استخدام التطبيق أثناء تشغيل هذه الأدوات. يرجى إيقافها والمحاولة مرة أخرى.",
 "tool_button": "إعادة المحاولة",
 
 "proxy_title": "تم اكتشاف إعداد Proxy",
-"proxy_message": "اكتشف التطبيق إعداد Proxy للشبكة. قد يكون هذا الإعداد مشروعاً، لذلك تحقق من إعدادات الاتصال قبل المتابعة.",
+"proxy_message": "اكتشف التطبيق إعداد Proxy للشبكة. لا يمكن المتابعة أثناء تشغيل أدوات التحليل.",
 "proxy_button": "إعادة المحاولة"
 }
