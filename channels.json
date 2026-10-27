@@ -1176,6 +1176,41 @@
         }
       ]
     },
+    {
+  "name": "ALFAGER",
+  "channels": [
+    {
+      "name": "ALFAGER 1",
+      "urls": [
+        "http://kjd23k.space:2052/live/17810359400475/39215025645488/231971.ts"
+      ]
+    },
+    {
+      "name": "ALFAGER 2",
+      "urls": [
+        "http://kjd23k.space:2052/live/17810359400475/39215025645488/231973.ts"
+      ]
+    },
+    {
+      "name": "ALFAGER 3",
+      "urls": [
+        "http://kjd23k.space:2052/live/17810359400475/39215025645488/231975.ts"
+      ]
+    },
+    {
+      "name": "ALFAGER 4",
+      "urls": [
+        "http://kjd23k.space:2052/live/17810359400475/39215025645488/231977.ts"
+      ]
+    },
+    {
+      "name": "ALFAGER 5",
+      "urls": [
+        "http://kjd23k.space:2052/live/17810359400475/39215025645488/231979.ts"
+      ]
+    }
+  ]
+},
 {
   "name": "ENGLISH SPORTS",
       "channels": [
