@@ -344,6 +344,7 @@
         {
           "name": "ALWAN SPORTS 1",
           "urls": [
+            "http://coco3-cdn.cfd:8085/alwan-1/index.m3u8",
             "http://kjd23k.space:2052/live/17810359400475/39215025645488/649702.ts",
             "http://kjd23k.space:2052/live/17810359400475/39215025645488/649708.ts",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738881.m3u8",
@@ -382,6 +383,7 @@
         {
           "name": "ALWAN SPORTS 2",
           "urls": [
+            "http://coco3-cdn.cfd:8085/alwan-2/index.m3u8",
             "http://smar55cob.site/live/co0508509282/536808532368/772273.ts",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738880.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738874.m3u8",
@@ -404,6 +406,7 @@
         {
           "name": "ALWAN SPORTS 3",
           "urls": [
+            "http://coco3-cdn.cfd:8085/alwan-3/index.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738879.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738873.m3u8",
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/1936515.ts",
@@ -425,6 +428,7 @@
         {
           "name": "ALWAN SPORTS 4",
           "urls": [
+            "http://coco3-cdn.cfd:8085/alwan-4/index.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738878.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738872.m3u8",
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/1936512.ts",
