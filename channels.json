@@ -1186,6 +1186,7 @@
        {
   "name": "بث تجريبي",
   "urls": [
+    "https://raw.githubusercontent.com/medo322/Mohammed/refs/heads/main/master.m3u8",
     "http://uniquemax.xyz:2052/10375497945304/24779171855387/677057",
     "http://uniquemax.xyz:2052/10375497945304/24779171855387/677075"
           ]
