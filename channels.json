@@ -6,6 +6,7 @@
         {
 "name": "BEIN SPORTS 1",
 "urls": [
+  "https://castx.online/live/beinsports1/master.m3u8",
   "https://stream-harbor-hls.lovable.app/hls/1.m3u8",
   "https://kidn.pages.dev/sd/bein_sport_1_h265_hd_2m.m3u8",
   "https://kidn.pages.dev/sd/bein_sport_1_hq_4m.m3u8",
@@ -45,6 +46,7 @@
           "urls": [
             "https://stream-harbor-hls.lovable.app/hls/2.m3u8",
             "https://kidn.pages.dev/sd/bein_sport_2_h265_hd_2m.m3u8",
+            "http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13615&extension=ts",
             "https://kidn.pages.dev/sd/bein_sport_2_hq_4m.m3u8",
             "https://kidn.pages.dev/sd/bein_sport_2_h265_hq_1m.m3u8",
             "https://kidn.pages.dev/sd/bein_sport_2_mini_512k.m3u8",
