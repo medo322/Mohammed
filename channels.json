@@ -6,6 +6,7 @@
         {
 "name": "BEIN SPORTS 1",
 "urls": [
+  "https://stream-harbor-hls.lovable.app/hls/1.m3u8",
   "https://kidn.pages.dev/sd/bein_sport_1_h265_hd_2m.m3u8",
   "https://kidn.pages.dev/sd/bein_sport_1_hq_4m.m3u8",
   "https://kidn.pages.dev/sd/bein_sport_1_h265_hq_1m.m3u8",
@@ -42,6 +43,7 @@
         {
           "name": "BEIN SPORTS 2",
           "urls": [
+            "https://stream-harbor-hls.lovable.app/hls/2.m3u8",
             "https://kidn.pages.dev/sd/bein_sport_2_h265_hd_2m.m3u8",
             "https://kidn.pages.dev/sd/bein_sport_2_hq_4m.m3u8",
             "https://kidn.pages.dev/sd/bein_sport_2_h265_hq_1m.m3u8",
@@ -84,6 +86,7 @@
         {
           "name": "BEIN SPORTS 3",
           "urls": [
+            "https://stream-harbor-hls.lovable.app/hls/3.m3u8",
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/9484.ts",
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/127186.ts",
             "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652352?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
@@ -119,6 +122,7 @@
         {
           "name": "BEIN SPORTS 4",
           "urls": [
+            "https://stream-harbor-hls.lovable.app/hls/4.m3u8",
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/9486.ts",
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/127187.ts",
             "http://het1.2depannage.cyou/196182/tracks-v1a1/mono.m3u8",
@@ -143,6 +147,7 @@
         {
           "name": "BEIN SPORTS 5",
           "urls": [
+            
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/9488.ts",
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/127188.ts",
             "http://het1.2depannage.cyou/196183/tracks-v1a1/mono.m3u8",
