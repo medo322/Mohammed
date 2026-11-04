@@ -6,10 +6,6 @@
         {
 "name": "BEIN SPORTS 1",
 "urls": [
-  "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275074.ts",
-  "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275061.ts",
-  "http://elattar-tv.org:8080/live/aumalimovies/Y2KrJtbPYJfR/29198.ts",
-  "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275051.ts",
   "https://kidn.pages.dev/sd/bein_sport_1_h265_hd_2m.m3u8",
   "https://kidn.pages.dev/sd/bein_sport_1_hq_4m.m3u8",
   "https://kidn.pages.dev/sd/bein_sport_1_h265_hq_1m.m3u8",
@@ -102,7 +98,8 @@
         {
           "name": "BEIN SPORTS 3",
           "urls": [
-            "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275059.ts",
+            "https://kidn.pages.dev/sd/bein_sport_3_h265_hd_2m.m3u8",
+            "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/677059.ts",
             "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/284456.ts",
             "http://vu-smart.store/live/6302742257/9446012228/483604.ts",
             "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275049.ts",
