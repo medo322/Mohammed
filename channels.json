@@ -48,7 +48,9 @@
         {
           "name": "BEIN SPORTS 2",
           "urls": [
-            "https://kidn.pages.dev/sd/bein_sport_2_h265_hd_2m.m3u8",
+            "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275073.ts",
+            "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275060.ts",
+            "http://cf-dana.com:8080/live/hegazyxmohamed1/hg74136950/275050.ts",
             "http://so.ta2al.us/live/MH12ARBMH12/MH12ARBMH12/509057.m3u8",
             "https://kidn.pages.dev/sd/bein_sport_2_hq_4m.m3u8",
             "https://kidn.pages.dev/sd/bein_sport_2_h265_hq_1m.m3u8",
@@ -83,7 +85,6 @@
         {
   "name": "BEIN 2",
   "urls": [
-    "https://kidn.pages.dev/sd/bein_sport_2_h265_hq_1m.m3u8",
     "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/193636.ts",
     "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/83627.ts"
   ]
