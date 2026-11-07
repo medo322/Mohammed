@@ -380,6 +380,7 @@
         {
           "name": "ALWAN SPORTS 1",
           "urls": [
+            "http://185.191.126.127:8080/live/0566084413/1394394776132208/418113.ts",
             "http://hydraa.st/live/ghadax88/0569777788/575344.ts",
             "https://blcco.linkip.org/live/3461_.m3u8",
             "http://coco3-cdn.cfd:8085/alwan-1/index.m3u8",
@@ -421,6 +422,8 @@
         {
           "name": "ALWAN SPORTS 2",
           "urls": [
+            "http://185.191.126.127:8080/live/0566084413/1394394776132208/418115.ts",
+            "http://185.191.126.127:8080/live/0566084413/1394394776132208/418116.ts",
             "https://blcco.linkip.org/live/3460_.m3u8",
             "http://coco3-cdn.cfd:8085/alwan-2/index.m3u8",
             "http://4576.live-44359.xyz/live/2487903738/ez94z02zgm/1936517.ts",
@@ -441,6 +444,7 @@
         {
           "name": "ALWAN SPORTS 3",
           "urls": [
+            "http://185.191.126.127:8080/live/0566084413/1394394776132208/418119.ts",
             "https://blcco.linkip.org/live/3459_.m3u8",
             "http://coco3-cdn.cfd:8085/alwan-3/index.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738879.m3u8",
@@ -464,6 +468,7 @@
         {
           "name": "ALWAN SPORTS 4",
           "urls": [
+            "http://185.191.126.127:8080/live/0566084413/1394394776132208/418122.ts",
             "https://blcco.linkip.org/live/3458_.m3u8",
             "http://coco3-cdn.cfd:8085/alwan-4/index.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738878.m3u8",
@@ -488,6 +493,7 @@
         {
           "name": "ALWAN SPORTS 5",
           "urls": [
+            "http://185.191.126.127:8080/live/0566084413/1394394776132208/418125.ts",
             "https://blcco.linkip.org/live/3457_.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738877.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738871.m3u8",
@@ -516,6 +522,7 @@
         {
           "name": "ALWAN SPORTS 6",
           "urls": [
+            "http://185.191.126.127:8080/live/0566084413/1394394776132208/418128.ts",
             "https://blcco.linkip.org/live/3456_.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738876.m3u8",
             "http://sharkiptvpro.xyz:80/live/8518189808/4124267911/738870.m3u8",
