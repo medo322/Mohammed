@@ -3,6 +3,13 @@
     {
       "name": "BEIN SPORTS",
       "channels": [
+    {
+      "name": "ALFAGER SPORTS",
+      "urls": [
+       "http://185.191.126.127:8080/live/0566084413/1394394776132208/463532.ts",
+        "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/231971.ts"
+      ]
+    },
         {
 "name": "BEIN SPORTS 1",
 "urls": [
@@ -84,7 +91,6 @@
         {
   "name": "BEIN 2 4K",
   "urls": [
-    "http://silka.m3um9xplus.org:2052/live/30635000266893/85606299443755/231971.ts",
     "http://hydraa.st/live/ghadax88/0569777788/415746.ts",
     "http://hydraa.st/live/ghadax88/0569777788/406822.ts",
     "http://hydraa.st/live/ghadax88/0569777788/415737.ts",
