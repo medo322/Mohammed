@@ -1,5 +1,5 @@
 {
-"vpn_protection": false,
+"vpn_protection": true,
 "network_tool_detection": true,
 "proxy_detection": true,
 "monitoring_enabled": true,
