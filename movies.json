@@ -57,5 +57,17 @@
       "order": 8
     }
   ],
-  "movies": []
+  "movies": [
+    {
+      "id": "test_mbc",
+      "package_id": "arabic",
+      "name": "MBC Bollywood",
+      "poster": "",
+      "year": "",
+      "description": "اختبار تشغيل",
+      "url": "http://sa.xurvani.cfd/live/564500400/3839746022/35251.ts",
+      "enabled": true,
+      "order": 1
+    }
+  ]
 }
