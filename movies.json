@@ -1,4 +1,61 @@
 {
-  "packages": [],
+  "packages": [
+    {
+      "id": "arabic",
+      "name": "أفلام عربية",
+      "logo": "ic_movies_arabic",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "foreign",
+      "name": "أفلام أجنبية",
+      "logo": "ic_movies_foreign",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "action",
+      "name": "أفلام أكشن",
+      "logo": "ic_movies_action",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "horror",
+      "name": "أفلام رعب",
+      "logo": "ic_movies_horror",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "comedy",
+      "name": "أفلام كوميدية",
+      "logo": "ic_movies_comedy",
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "id": "romance",
+      "name": "أفلام رومانسية",
+      "logo": "ic_movies_romance",
+      "enabled": true,
+      "order": 6
+    },
+    {
+      "id": "drama",
+      "name": "أفلام دراما",
+      "logo": "ic_movies_drama",
+      "enabled": true,
+      "order": 7
+    },
+    {
+      "id": "scifi",
+      "name": "أفلام خيال علمي",
+      "logo": "ic_movies_scifi",
+      "enabled": true,
+      "order": 8
+    }
+  ],
   "movies": []
 }
