@@ -112,6 +112,17 @@
       "url": "https://dn800206.us.archive.org/0/items/wings-silent-trimmed/Wings%20-%20Silent%20-%20Trimmed.ia.mp4",
       "enabled": true,
       "order": 4
+    },
+    {
+      "id": "war_005",
+      "package_id": "action",
+      "name": "انبطح وتغطَّ",
+      "poster": "",
+      "year": "1951",
+      "description": "فيلم قصير عن التوعية المدنية في زمن الحرب",
+      "url": "https://archive.org/download/ArcherProductionsInc/DuckandC1951.mp4",
+      "enabled": true,
+      "order": 5
     }
   ]
 }
