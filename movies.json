@@ -68,6 +68,17 @@
       "url": "http://sa.xurvani.cfd/live/564500400/3839746022/35251.ts",
       "enabled": true,
       "order": 1
+    },
+    {
+      "id": "war_001",
+      "package_id": "action",
+      "name": "All Quiet on the Western Front",
+      "poster": "",
+      "year": "1930",
+      "description": "فيلم حربي عن الحرب العالمية الأولى",
+      "url": "https://archive.org/download/all-quiet-on-the-western-front-1930_202610/All%20Quiet%20on%20the%20Western%20Front%20%281930%29.ia.mp4",
+      "enabled": true,
+      "order": 1
     }
   ]
 }
