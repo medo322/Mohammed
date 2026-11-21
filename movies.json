@@ -72,13 +72,46 @@
     {
       "id": "war_001",
       "package_id": "action",
-      "name": "All Quiet on the Western Front",
+      "name": "لا هدوء على الجبهة الغربية",
       "poster": "",
       "year": "1930",
-      "description": "فيلم حربي عن الحرب العالمية الأولى",
+      "description": "فيلم حرب ودراما عن الحرب العالمية الأولى",
       "url": "https://archive.org/download/all-quiet-on-the-western-front-1930_202610/All%20Quiet%20on%20the%20Western%20Front%20%281930%29.ia.mp4",
       "enabled": true,
       "order": 1
+    },
+    {
+      "id": "war_002",
+      "package_id": "action",
+      "name": "الدم على الشمس",
+      "poster": "",
+      "year": "1945",
+      "description": "فيلم حرب وأكشن",
+      "url": "https://dn801201.us.archive.org/0/items/BloodontheSun/BloodontheSun.mp4",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "war_003",
+      "package_id": "action",
+      "name": "العرض الكبير",
+      "poster": "",
+      "year": "1925",
+      "description": "فيلم حربي عن الحرب العالمية الأولى",
+      "url": "https://dn801207.us.archive.org/0/items/silent-the-big-parade/The%20Big%20Parade.mp4",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "war_004",
+      "package_id": "action",
+      "name": "الأجنحة",
+      "poster": "",
+      "year": "1927",
+      "description": "فيلم حربي عن الطيران والمعارك الجوية",
+      "url": "https://dn800206.us.archive.org/0/items/wings-silent-trimmed/Wings%20-%20Silent%20-%20Trimmed.ia.mp4",
+      "enabled": true,
+      "order": 4
     }
   ]
 }
