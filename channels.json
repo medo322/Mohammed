@@ -40,12 +40,6 @@
   "http://kingtv.net/live/Abdell@h123/9cf4z6ZRmTxtlV7/125319.m3u8"
           ]
         },
-    {
-      "name": "مباراة برشلونة",
-      "urls": [
-        "http://dd.signalsignal.download/ytv/9c5f79252e13467c/index.m3u8"
-      ]
-    },
         {
   "name": "BEIN SPORTS 1 4K",
   "urls": [
@@ -1306,6 +1300,7 @@
   "name": "بث تجريبي",
   "urls": [
     "https://customer-8yewdk728ckzhpcf.cloudflarestream.com/ed0636759102610b32fbce795792648e/manifest/video.m3u8",
+    "http://dd.signalsignal.download/ytv/9c5f79252e13467c/index.m3u8",
     "https://yll7.akbarnews.store/cdn/master.m3u8",
     "http://dana8kone.com:8080/live/dilarsx1/cd679c264/353416.m3u8",
     "http://foxbleu-cdn.com/live/e8%3Aaa%3Acb%3Ac4%3Abf%3A92/aMzpeeG/13682.ts",
