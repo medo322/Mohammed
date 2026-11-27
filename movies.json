@@ -66,8 +66,7 @@
   "year": "",
   "description": "اختبار تشغيل",
   "urls": [
-    "http://familysmarttv.com:8080/live/36166307747410/35868825286763/20924.ts",
-    "http://sa.xurvani.cfd/live/564500400/3839746022/35251.ts"
+    "http://familysmarttv.com:8080/live/36166307747410/35868825286763/20924.ts"
   ],
   "enabled": true,
   "order": 1
