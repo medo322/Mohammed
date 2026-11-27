@@ -59,15 +59,18 @@
   ],
   "movies": [
     {
-      "id": "test_mbc",
-      "package_id": "arabic",
-      "name": "MBC Bollywood",
-      "poster": "",
-      "year": "",
-      "description": "اختبار تشغيل",
-      "url": "http://sa.xurvani.cfd/live/564500400/3839746022/35251.ts",
-      "enabled": true,
-      "order": 1
+  "id": "test_mbc",
+  "package_id": "arabic",
+  "name": "MBC Bollywood",
+  "poster": "http://vodkom.com/Logo/ARABSAUDIA/MBC_Bollywood_HD.png",
+  "year": "",
+  "description": "اختبار تشغيل",
+  "urls": [
+    "http://familysmarttv.com:8080/live/36166307747410/35868825286763/20924.ts",
+    "http://sa.xurvani.cfd/live/564500400/3839746022/35251.ts"
+  ],
+  "enabled": true,
+  "order": 1
     },
     {
       "id": "war_001",
